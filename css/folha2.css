@@ -1,0 +1,25 @@
+
+
+
+
+h1{
+    color: rgb(140, 126, 172);
+    text-align: center;
+   
+}
+
+body{
+    background-color: hsl(60, 7%, 73%);
+    background-image: url(../img/thaiA380.jpg);
+    background-size: cover;
+}
+
+h3{
+    text-align: center;
+    text-decoration-line: underline;
+    font-size: medium;
+}
+h2{
+    font-size: medium;
+    text-align: center;
+}
